@@ -1,4 +1,5 @@
-# vela_corr
+# Vela data analysis
+
 Imaging of Vela Data
 
 So far, we have got the dynamic spectra then dedispersed it and then got the pulses in time domain.
@@ -8,3 +9,5 @@ Vela_V1 takes raw data from an array. This array is created using "dataextract.p
 
 edit "dataextract.py" with you directory before running it. 
 The Raw data file is available on the drive shared by desh.
+
+
